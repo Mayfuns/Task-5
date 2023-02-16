@@ -1,0 +1,27 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: aliceblue;
+}
+
+
+table{
+    margin: auto;
+    font-family: 'Manrope', sans-serif;
+}
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    /* padding: 10px 20px; */
+    font-family: 'Manrope', sans-serif;
+    padding: 15px 25px;
+}
+td{
+    text-align: left;
+    padding: 15px 40px;
+    font-weight: 600;
+}
+th{
+    font-weight: 800;
+}
